@@ -34,6 +34,10 @@ gRPC-сервис key-value хранилища на **Java 25**, **Maven** и **
 ├─ docker-compose.yml
 ├─ pom.xml
 ├─ README.md
+├─ mvnw
+├─ mvnw.cmd
+├─ .mvn/
+│  └─ wrapper/
 ├─ tarantool/
 │  └─ init.lua
 └─ src/
