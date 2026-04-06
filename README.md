@@ -120,13 +120,13 @@ docker compose up -d
 ### 2. Собрать проект
 
 ```bash
-mvn clean verify
+mvnw clean verify
 ```
 
 ### 3. Запустить приложение
 
 ```bash
-mvn exec:java
+mvnw exec:java
 ```
 
 Либо можно запустить `Application.java` напрямую из IntelliJ IDEA.
