@@ -1,6 +1,6 @@
 # vk-internship-java-developer-task
 
-gRPC-сервис key-value хранилища на **Java 25**, **Maven** и **Tarantool 3.2**.
+gRPC-сервис key-value хранилища на **Java 25**, **Maven** и **Tarantool 3.2**
 
 ## Обзор
 
