@@ -47,6 +47,7 @@ gRPC-сервис key-value хранилища на **Java 25**, **Maven** и **
    │  │  ├─ config/
    │  │  ├─ grpc/
    │  │  ├─ model/
+   │  │  ├─ logging/
    │  │  ├─ repository/
    │  │  └─ service/
    │  ├─ proto/
